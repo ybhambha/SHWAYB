@@ -1,0 +1,10 @@
+Inputs,
+"beta 1,1",0.2
+"beta 1,2",0.9
+"beta 1,3",1.3
+"beta 2,1",1.2
+"beta 2,2",0.2
+"beta 2,3",0.7
+Risk factor 1 volatility,15%
+Risk factor 2 volatility,20%
+Risk factor correlation,-0.5
