@@ -67,6 +67,8 @@ for loc in range(0, len(arr_portfolio_stocks_weights)):
     arr_portfolio_stocks_weights['Weight'][loc],
     '2016-08-19')
     objPortfolio.addPosition(obj_position)
+    
+    
 
 #print arr_portfolio_stock_weights
 

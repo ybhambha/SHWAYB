@@ -1,0 +1,602 @@
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex21.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex10.9
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex1
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex11.3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedIndex2
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor Sensitivity to be setIndex20.7
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock1
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock2
+INFO:fstk_utilities_pkg.portfolio_manager.portfolio:<type 'instance'>
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Retrieving sens value for Stock3
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedFTSE 100
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedSP 500
+INFO:fstk_utilities_pkg.instruments.equity:Risk Factor To Be AddedDax 30
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_CorrelationDatabasecsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_CorrelationDatabasecsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_CorrelationDatabasecsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_CorrelationDatabasecsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_CorrelationDatabasecsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorsdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg05Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:db_Risk_Factors_Correlationdbcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Risk_Factorscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Equity_Instrumentscarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfolio_Betascarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:vol2chap01eg06Portfoliocarol_alexander_bookcsv
+INFO:fstk_utilities_pkg.data_access_utilities.data_access_util:db_Risk_Factors_Correlationdbcsv
