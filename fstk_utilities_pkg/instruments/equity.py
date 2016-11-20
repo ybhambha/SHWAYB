@@ -16,6 +16,8 @@ import logging
 from fstk_utilities_pkg.risk_manager.equity_risk import *
 from fstk_utilities_pkg.instruments.derivative import *
 from fstk_utilities_pkg.data_access_utilities.data_access_util import *
+from fstk_utilities_pkg.instruments.instrument import *
+
 
 class equity_valuation:
     def __init__(self, s_identifier_in):
@@ -26,6 +28,7 @@ class equity_valuation:
         self.logger.setLevel(logging.INFO)
         
         self.identifier = s_identifier_in
+        self.instrument_type =  InstrumentType.EQT       
         
     def getRisk(self):
         return self.risk
@@ -46,9 +49,9 @@ class equity_valuation_multi(equity_valuation):
         #self.risk = equity_risk_factor(self.risk_factor_model)
         self.df_risk_factors = pd.DataFrame()
         self.df_risk_factors_sens_value = pd.DataFrame()
+        self.arr_risk_factors = []
         
     def getIdentifier(self):
-        print type(self.identifier)
         return self.identifier
                                         
     def getEquities(self):
@@ -57,25 +60,32 @@ class equity_valuation_multi(equity_valuation):
     def setRiskFactorSensitivity(self, risk_factor_in):
         print 'equity_valuation_single: setRiskFactorSensitivity'
         
-    def addRiskFactor(self, s_risk_factor_name_in):
+    def addRiskFactor(self, equity_risk_factor_in):
         
-        self.logger.info('Risk Factor To Be Added'+s_risk_factor_name_in)       
-#        risk_factor_name = s_risk_factor_name_in
-        
-#        m_risk_factor = equity_risk_factor(risk_factor_name)
-#        self.risk_factors.append(m_risk_factor)
+        self.logger.info('Risk Factor To Be Added: '+ equity_risk_factor_in.\
+                                                    getRiskFactorName())       
+        self.arr_risk_factors.append(equity_risk_factor_in)
         
         
-        df1 = self.df_risk_factors      
-        df_risk_factor_data = pd.DataFrame({'risk_factor': \
-                                            s_risk_factor_name_in}, \
-                                            index = [s_risk_factor_name_in])
-                
-        df2 = df1.append(df_risk_factor_data)
-        self.df_risk_factors = df2
+#        df1 = self.df_risk_factors      
+#        df_risk_factor_data = pd.DataFrame({'risk_factor': \
+#                                            s_risk_factor_name_in}, \
+#                                            index = [s_risk_factor_name_in])
+#                
+#        df2 = df1.append(df_risk_factor_data)
+#        self.df_risk_factors = df2
         
     def getRiskFactors(self):
-        return self.df_risk_factors
+        #return self.df_risk_factors
+        return self.arr_risk_factors
+        
+    def getRiskFactorsNames(self):
+        arr_equity_risk_factors_names = []
+        for equity_risk_factor in self.getRiskFactors():
+                arr_equity_risk_factors_names.append(equity_risk_factor.\
+                                                        getRiskFactorName())
+
+        return arr_equity_risk_factors_names 
     
     def getRiskFactorsFromDb(object):
         self.logger.info('Retrieving Risk Factor information from Db')
@@ -111,7 +121,11 @@ class equity_valuation_multi(equity_valuation):
             return self.df_risk_factors_sens_value
         else:
             return self.df_risk_factors_sens_value['risk_factor_sens'] \
-                                        [s_equity_risk_factor_name_in]                                    
+                                        [s_equity_risk_factor_name_in]
+                                        
+    def getInstrumentType(self):
+        return self.instrument_type
+                
         
 class equity_valuation_single(equity_valuation):
     def get_risk_factors(self):

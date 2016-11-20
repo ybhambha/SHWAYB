@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import logging
 import numpy as np
+import pandas as pd
 import math
 
 class array_util(object):
@@ -14,9 +15,9 @@ class array_util(object):
                                     corr_items_in):
                                 
         cm = np.array(corr_items_in)
+        
         items = items_in
         df_std_dev_items = df_std_dev_items_in
-        print df_std_dev_items
         
         arr_var_covar = []
         
@@ -34,5 +35,9 @@ class array_util(object):
             arr_var_covar.append(row_var_covar)
     
         mat_var_covar = np.mat(arr_var_covar)
+        
+        df_var_covar_matrix = pd.DataFrame(mat_var_covar)
+        df_var_covar_matrix.columns = items
+        df_var_covar_matrix.index = items
     
-        return mat_var_covar
+        return df_var_covar_matrix

@@ -4,14 +4,21 @@ Created on Tue Aug 23 22:57:35 2016
 
 @author: yashwantbhambhani
 """
-from fstk_utilities_pkg.data_access_utilities.data_access_util import *
+from fstk_utilities_pkg.data_access_utilities.data_access_util import DataAsDataFrame
+from fstk_utilities_pkg.data_access_utilities.data_access_util import DatasetTypeList
 import pandas as pd
+
 
 class risk_factor_asset_class(object):
     EQT = "Equity"
     FI = "Fixed Income"
     FX = "FX"
     DERV = "Derivative"
+    
+class risk_factor_classification(object):
+    FOREIGN_MKT_IDX = "Foreign Market Index"
+    XCHG_RT = "Exchange Rate"
+    EQT = "Equity"
     
 class risk_factor(object):
      def __init__(self, s_risk_factor_name_in, s_asset_class_in, f_vol_in):

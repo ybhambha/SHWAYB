@@ -4,6 +4,12 @@ Created on Fri Sep 30 09:46:47 2016
 
 @author: yashwantbhambhani
 """
+import os
+import sys
+import pandas as pd
+import numpy as np
+
+sys.path.append(os.path.abspath('/Users/yashwantbhambhani/Documents/SHWAYB/FSTK'))
 
 import math
 from fstk_utilities_pkg.portfolio_manager.portfolio import *
@@ -63,7 +69,8 @@ for equity_instrument in df_equity_instruments_data.index:
     obj_equity = equity_valuation_multi(equity_instrument)
     for risk_factor in arr_risk_factors:
         if risk_factor.getAssetClass() == risk_factor_asset_class.EQT:
-            obj_equity.addRiskFactor(risk_factor.getRiskFactorName())
+            #obj_equity.addRiskFactor(risk_factor.getRiskFactorName())
+            obj_equity.addRiskFactor(risk_factor)
             if (risk_factor.getRiskFactorName() == 'Index1'):
                 obj_equity.setRiskFactorSensValue(risk_factor.getRiskFactorName(),\
                         df_stocks_beta_data.ix[equity_instrument]['Beta 1'])
@@ -95,7 +102,7 @@ df_all_risk_factors_correlations = \
                         obj_db.getAllRiskFactorsCorrelations()
                         
 #Retrieve all the correlations for the risk factors of the portfolio
-lst_portfolio_all_risk_factors = obj_portfolio.getAllRiskFactors()
+lst_portfolio_all_risk_factors = obj_portfolio.getAllRiskFactorsNames()
 row_filter = lst_portfolio_all_risk_factors
 column_filter = lst_portfolio_all_risk_factors                        
 df_portfolio_stocks_risk_factors_correlations = \
@@ -109,7 +116,7 @@ lst_equities_risk_factors = obj_portfolio.getAllRiskFactors()
 ser_risk_factors_vol_data = df_risk_factors_data['Volatility']
 df_risk_factors_vol_data = pd.DataFrame(ser_risk_factors_vol_data)
 mat_portfolio_risk_factors_var_covar = obj_array_util.calc_var_covar_matrix(\
-                                obj_portfolio.getAllRiskFactors().tolist(), \
+                                obj_portfolio.getAllRiskFactorsNames(), \
                                 df_risk_factors_vol_data,\
                                 lst_portfolio_stocks_risk_factors_correlation
                                 )
@@ -132,7 +139,7 @@ print '************OUTPUTS**************'
 print '*********************************'
 print ''
 print '************Net Betas of stocks in portfolio************'
-print obj_portfolio.getAllRiskFactors()
+print obj_portfolio.getAllRiskFactorsNames()
 print obj_portfolio.getPortfolioBeta()    
 print '********************************************************'
 print '***********Covariance Matrix of risk factors************'
