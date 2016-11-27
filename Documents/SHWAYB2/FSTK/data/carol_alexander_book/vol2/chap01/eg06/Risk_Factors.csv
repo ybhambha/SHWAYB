@@ -1,0 +1,6 @@
+Risk Factor Id,Risk Factor Type,Volatility
+FTSE 100,Foreign Market Index,0.2
+SP 500,Foreign Market Index,0.22
+Dax 30,Foreign Market Index,0.25
+USD/GBP,Exchange Rate,0.1
+EUR/GBP,Exchange Rate,0.12
