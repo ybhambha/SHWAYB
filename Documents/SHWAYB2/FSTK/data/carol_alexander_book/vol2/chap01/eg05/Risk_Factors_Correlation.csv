@@ -1,4 +1,0 @@
-CorrelationId,Risk factor 1,Risk factor 2,Correlation
-1,Index1,Index2,-0.5
-2,Index1,Index3,-0.3
-3,Index2,Index3,0.8
