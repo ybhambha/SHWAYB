@@ -1,2 +1,0 @@
-# SHWAYB
-Financial Software Toolkit
