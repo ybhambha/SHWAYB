@@ -1,0 +1,41 @@
+MATRIX and LINEAR ALGEBRA Package For EXCEL
+MATRIX.XLA - Ver. 2.3
+
+This Excel 2003/XP add-in contains useful functions for Matrix and Linear Algebra.
+
+Installation Notes
+
+This addin for Excel XP  is composed by 4 files:
+matrix.xla
+matrix.hlp
+matrix.csv
+FunCustomize.dll  (*)
+(*) FunCustomize.dll appears by courtesy of Laurent Longre  (http://longre.free.fr)
+
+Place all the above files in a folder of your choice. If you have an older version, replace it with the new version. The addin is contained entirely in this directory. Your system is not modified in any other way. If you want to uninstall this package, simply delete its folder - it's as simple as that!
+
+To use, follow the usual procedure for installing Excel Addins:
+   1) Open Excel
+   2) Select <Addins...> from the <Tools> menu
+   3) Once in the Addins Manager, search for and select "matrix.xla"
+   4) Click OK and have fun!
+
+When starting, Excel loads all the addins that are checked in the Addins Manager list. If you want to stop MATRIX from loading, simply deselect its check-box.
+
+MATRIX software is freeware and completely open. I hope you enjoy using it.
+I will appreciate every your suggestions and bug reports. 
+:-) 
+In the meantime, have fun! 
+
+
+By Leonardo Volpi
+Foxes team
+Italy
+
+http:\\digilander.libero.it\foxes
+E-mail: leovlp@libero.it
+
+
+
+
+
